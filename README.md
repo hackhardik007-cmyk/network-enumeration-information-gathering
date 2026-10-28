@@ -64,5 +64,3 @@ All hands-on activity described here was coursework conducted in a lab context. 
 - `.gitignore` — excludes common temporary and sensitive files.
 
 ## Coursework Disclaimer
-
-This project documents learning exercises from the CEH v12 curriculum. It is not evidence of a commercial security engagement or a certification exam pass.
